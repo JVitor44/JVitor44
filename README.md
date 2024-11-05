@@ -1,36 +1,26 @@
 ## Opaaa, eu me chamo João Vitor
-Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há exercícios e desenvolvimento de programas envolvendo linguagens de programação. 
-
+Olá, me chamo João Vitor, tenho 16 anos, e sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Esse GitHub é utilizado para estudos, onde contém exercícios envolvendo linguagens de programação. 
 -------
-## 🌟 Preferências:
-
-- 📚 Livros
-- 🎨 Arte
-- 🎶 Música
-- 🎭 Teatro
-
--------
-## 🌎 Linguagens: <br>
-
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
 
  --------
-## 📃 Interesses: <br>
+ 
+## Preferências: <br>
 
-➮ 💫 Programação <br>
-➮ 💫 Eletrônica <br>
-➮ 💫 Desenvolvimento Web <br>
+ - Desenvolvimento Web <br>
 
 --------
 
-## 🧪 Projeto de Programação Orientada a Objetos:
-- ⚙️ POO: [Exericícios POO](https://github.com/hosanasoaress/CTI-P4-POO-20242-LISTA01)
+## Repositório de Programação Orientada a Objetos:
+
+- Exercícios: [POO](https://github.com/JVitor44/CTI-P3-POO-20242-LISTA01)
 
 ---------
 
-## 📞 Contatos:
-- 📩 Email: hosana.clara@aluno.ifce.edu.br
-- 📱 Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
-
+## Contatos:
+- Email: joao.vitor11@aluno.ifce.edu.br
 
 <hr>
+
+## Linguagens Usadas: <br>
+
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
