@@ -13,7 +13,7 @@ Olá, me chamo João Vitor, tenho 16 anos, e sou estudante do IFCE campus Marang
 
 ## Repositório de Programação Orientada a Objetos:
 
-- Exercícios: [POO](https://github.com/JVitor44/CTI-P3-POO-20242-LISTA01)
+- Exercícios: [POO](https://github.com/JVitor44/CTI-P7-POO-20242-LISTA01)
 
 ---------
 
