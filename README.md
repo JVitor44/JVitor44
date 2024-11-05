@@ -3,8 +3,6 @@
 
 Olá, me chamo João Vitor, tenho 16 anos, e sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Esse GitHub é utilizado para estudos, onde contém exercícios envolvendo linguagens de programação. 
 
--------
-
  --------
  
 ## Preferências: <br>
